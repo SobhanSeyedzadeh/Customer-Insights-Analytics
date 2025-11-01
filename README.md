@@ -28,14 +28,10 @@ Customer-driven analysis for a healthcare/wellness business using **Python** and
 - Retention concentrates in the first month; lifecycle triggers extend LTV.
 
 ## Repository Layout
-
-
 data/ # sanitized datasets
 notebooks/ # customer_insights_healthcare.ipynb
 scripts/ # customer_insights_healthcare.sql
 reports/ # customer_analytics_insights_report.pdf
-
-
 
 ## How to Run
 1. Open the notebook in `notebooks/` (Jupyter/Lab).  
